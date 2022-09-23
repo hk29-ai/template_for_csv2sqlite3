@@ -12,6 +12,9 @@ sqlite3 -separator , iris.db ".import iris-dataset.csv table_name"
   
 ## ■csv2sqlite3_db.ipynb  
 Pythonを用いて、csvファイルをsqlite3のDBファイルを作成するJupyterLab用のファイルです。  
+https://github.com/hkosa134/csv2sqlite3_db/blob/main/csv2sqlite3_db.ipynb  
   
 ## ■load_sqlite3_db_and_extract_data.ipynb  
 sqlite3のDBを読み出して、条件を指定してデータを抽出する雛形コードをいくつか載せています。最後に、それをcsvファイルへ出力するコードも載せました。  
+https://github.com/hkosa134/csv2sqlite3_db/blob/main/load_sqlite3_db_and_extract_data.ipynb  
+
