@@ -2,7 +2,7 @@
 sqlite3のデータベース（DB）を読み込んで、データを抽出したり、csvファイルへ出力するPythonの雛形コードを載せました。   
   
 ## ■template_for_csv2sqlite3db.ipynb  
-Pythonを用いて、csvファイルをsqlite3のDBファイルを作成するJupyterLab用のファイルです。  
+Pythonを用いて、csvファイルをsqlite3のDBファイルを作成する雛形コードです。JupyterLab用でインタラクティブに実行しながら確認できます。  
 https://github.com/hk29-ai/csv2sqlite3_db/blob/main/template_for_csv2sqlite3db.ipynb  
   
 ## ■template_for_load_sqlite3db_and_extract_data.ipynb  
