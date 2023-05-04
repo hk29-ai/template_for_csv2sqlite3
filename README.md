@@ -3,11 +3,11 @@ sqlite3のデータベース（DB）を読み込んで、データを抽出し�
   
 ## ■csv2sqlite3_db.ipynb  
 Pythonを用いて、csvファイルをsqlite3のDBファイルを作成するJupyterLab用のファイルです。  
-https://github.com/hkosa134/csv2sqlite3_db/blob/main/csv2sqlite3_db.ipynb  
+https://github.com/hk29-ai/csv2sqlite3_db/blob/main/template_for_csv2sqlite3db.ipynb  
   
 ## ■load_sqlite3_db_and_extract_data.ipynb  
 sqlite3のDBを読み出して、条件を指定してデータを抽出する雛形コードをいくつか載せています。最後に、それをcsvファイルへ出力するコードも載せました。  
-https://github.com/hkosa134/csv2sqlite3_db/blob/main/load_sqlite3_db_and_extract_data.ipynb  
+https://github.com/hk29-ai/csv2sqlite3_db/blob/main/template_for_load_sqlite3db_and_extract_data.ipynb  
 
 ## 備考  
 コマンドラインでcsvからsqlite3のDBへ変換は、次のようにして行えます  
